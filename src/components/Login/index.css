@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.log-in-button {
+  height: 40px;
+  width: 130px;
+  border-radius: 10px;
+  border: none;
+  color: #303150;
+  font-size: 15px;
+  margin: 10px;
+}
